@@ -75,5 +75,8 @@
     "transform": {
       "^.+\\.(t)sx?$": "ts-jest"
     }
+  },
+  "dependencies": {
+    "formik": "^2.0.6"
   }
 }
