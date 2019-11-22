@@ -7,6 +7,19 @@
   "files": [
     "dist"
   ],
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-form",
+    "formik"
+  ],
+  "author": "andrew smith",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajsmth/react-native-formik-components"
+  },
+  "description": "formik helper components to reduce boilerplate in React Native",
+  "license": "ISC",
   "scripts": {
     "start": "tsdx watch",
     "build": "tsdx build",
