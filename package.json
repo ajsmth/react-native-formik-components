@@ -1,6 +1,6 @@
 {
   "name": "react-native-formik-components",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "module": "dist/react-native-formik-components.esm.js",
   "typings": "dist/index.d.ts",
