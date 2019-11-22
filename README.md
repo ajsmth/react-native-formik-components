@@ -2,6 +2,12 @@
 
 Formik helper components to reduce boilerplate in React Native
 
+## Install 
+
+```bash
+yarn add react-native-formik-components formik
+```
+
 ## Example
 
 ```tsx
